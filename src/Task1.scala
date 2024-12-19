@@ -1,5 +1,5 @@
 object Task1 extends App{
 
 
-  println("Helloworld")
+  println("Hello world!")
 }
